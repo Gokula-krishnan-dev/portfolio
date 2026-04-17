@@ -257,7 +257,6 @@ html{
 
 .four-main:hover .border-style{
   transition: 0.2s ease-in-out;
-  transform: translateY(-5px);
   border: 3px solid #44A194 !important;
 }
 
